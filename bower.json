@@ -1,0 +1,27 @@
+{
+    "name": "core-telefones",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": "Ezequias Prado",
+    "private": false,
+    "main": "dist/core.telefones.js",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "nbproject",
+        "test",
+        "tests"
+    ],
+    "devDependencies": {
+        "angular-mocks": "~1.4"
+    },
+    "dependencies": {
+        "angular": "~1.4",
+        "componentes": "https://github.com/ezequiasmoreira/componentes.git"
+    },    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ezequiasmoreira/componentes.git"
+    }
+}
